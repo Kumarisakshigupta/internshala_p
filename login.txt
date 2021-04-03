@@ -1,0 +1,19 @@
+Employee logins
+---------------------
+    email                   password
+---------------------    -----------------
+
+1) employer1@gmail.com  : 123e1123
+2) employer2@gmail.com  : 123e2123
+3) employer3@gmail.com  : 123e3123
+4) nicdio@nic.gov.in    : 1234
+--------------------------------------------------------------------------------
+Student logins
+---------------------
+   email                   password
+---------------------    -----------------
+
+1) student1@gmail.com    : 123s1123
+2) student2@gmail.com    : 123s2123
+3) student3@gmail.com    : 123s3123
+4) mbs.yaswanth@gmail.com: 1234
